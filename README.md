@@ -18,9 +18,13 @@ For help i have added test and correct python file for cleaning and saving. Use 
 # Note:
 Add information about data file in latex with the name of the variable you have stored it with in python.(Dont include the data, just the info of what it is)
 
-# Referencias
+# Referencias:
 
-### 
+### pandas
+- https://pandas.pydata.org/docs/
+
+### matplotlib
+- https://matplotlib.org/stable/contents.html
 
 ### set_prop_cycle
 - https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_prop_cycle.html
@@ -28,3 +32,6 @@ Add information about data file in latex with the name of the variable you have 
 
 ### scatter_matrix
 - https://interactivechaos.com/es/manual/tutorial-de-pandas/la-funcion-scattermatrix
+
+### graphviz
+- https://graphviz.readthedocs.io/en/stable/manual.html
