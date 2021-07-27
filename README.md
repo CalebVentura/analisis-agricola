@@ -17,3 +17,14 @@ For help i have added test and correct python file for cleaning and saving. Use 
 
 # Note:
 Add information about data file in latex with the name of the variable you have stored it with in python.(Dont include the data, just the info of what it is)
+
+# Referencias
+
+### 
+
+### set_prop_cycle
+- https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_prop_cycle.html
+- https://stackoverflow.com/questions/44806598/matplotlib-set-color-cycle-versus-set-prop-cycle
+
+### scatter_matrix
+- https://interactivechaos.com/es/manual/tutorial-de-pandas/la-funcion-scattermatrix
